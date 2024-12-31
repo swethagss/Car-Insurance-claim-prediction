@@ -1,6 +1,6 @@
 # **Car Insurance Claim Prediction**
 
-This project focuses on predicting the likelihood of insurance claims made by policyholders using advanced machine learning techniques. Car insurance claim prediction is a critical task for insurance companies to assess risk, design policies, and improve customer service while minimizing losses.
+This project leverages machine learning to predict the likelihood of car insurance claims based on customer and policy data. By analyzing historical patterns, the model helps insurance companies assess risk, optimize policy pricing, and reduce potential losses. The project includes data preprocessing, feature engineering, and evaluation using metrics like accuracy and ROC-AUC to ensure robust and reliable predictions
 
 ---
 
